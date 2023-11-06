@@ -12,6 +12,7 @@
 - Durante el proceso de entrenamiento y validación, se hace uso de la base de datos MERDWild.
 - La base de datos MAFW se utiliza como conjunto de pruebas en un escenario diferente.
 
-## Encuentra el enlace a la base de datos 'Multimodal Emotion Recognition Dataset in the wild' (MERDWild) [aquí](https://alumnosuvcl-my.sharepoint.com/:f:/r/personal/facundo_martinez_alumnos_uv_cl/Documents/MERDWild?csf=1&web=1&e=99LSDa).
-
 Este repositorio contiene herramientas y scripts relacionados con el preprocesamiento de datos, así como con el entrenamiento y validación de modelos, todos ellos vinculados al proyecto de título “Reconocimiento Multimodal de Emociones utilizando conjuntos de datos en ambientes no controlados.”
+
+# Acceso a la base de datos MERDWild:
+## Encuentra el enlace con las instrucciones para descargar la base de datos 'Multimodal Emotion Recognition Dataset in the wild' (MERDWild) [aquí](https://github.com/FacundoMartinez/MERDWild.git).
